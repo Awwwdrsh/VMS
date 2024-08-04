@@ -1,0 +1,10 @@
+visitor-management/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+├── config/
+│   └── db.php
+├── templates/
+│   ├── header.php
+│   └── footer.php
+├── index.php
